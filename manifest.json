@@ -1,0 +1,27 @@
+{
+  "name": "Abdullah Fahim - Personal Website",
+  "short_name": "Abdullah Fahim",
+  "description": "Personal website with gallery, routine, and contact features",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://i.ibb.co.com/4RwDKSd1/A-removebg-preview.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co.com/4RwDKSd1/A-removebg-preview.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "personal"],
+  "lang": "en",
+  "dir": "ltr"
+}
